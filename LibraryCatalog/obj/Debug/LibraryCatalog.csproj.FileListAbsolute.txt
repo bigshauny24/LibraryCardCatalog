@@ -1,0 +1,7 @@
+C:\Users\ABC123\Desktop\Projects\LibraryCatalog\LibraryCatalog\bin\Debug\LibraryCatalog.exe.config
+C:\Users\ABC123\Desktop\Projects\LibraryCatalog\LibraryCatalog\bin\Debug\LibraryCatalog.exe
+C:\Users\ABC123\Desktop\Projects\LibraryCatalog\LibraryCatalog\bin\Debug\LibraryCatalog.pdb
+C:\Users\ABC123\Desktop\Projects\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.csprojResolveAssemblyReference.cache
+C:\Users\ABC123\Desktop\Projects\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.csproj.CoreCompileInputs.cache
+C:\Users\ABC123\Desktop\Projects\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.exe
+C:\Users\ABC123\Desktop\Projects\LibraryCatalog\LibraryCatalog\obj\Debug\LibraryCatalog.pdb
